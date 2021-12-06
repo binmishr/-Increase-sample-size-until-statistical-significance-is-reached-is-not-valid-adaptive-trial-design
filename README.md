@@ -1,0 +1,1 @@
+# -Increase-sample-size-until-statistical-significance-is-reached-is-not-valid-adaptive-trial-design
